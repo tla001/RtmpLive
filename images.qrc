@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icos">
+        <file>images/stream.ico</file>
+    </qresource>
+</RCC>
